@@ -1,0 +1,57 @@
+body{
+    background: url(imgs/628286.webp);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    color: black;
+    text-shadow: 5px 5px 10px black;
+    font-size: 17px;
+}
+
+.pri-container{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    color: white;
+    background-color: #171717;
+    padding: 10px 5px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+input:hover{
+    color: white;
+    background-color: orangered;
+    transition: all 0.3s ease-in;
+}
+h1{
+    color: lime;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 55px;
+    text-shadow: 5px 5px 10px black;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: white;
+    background-color: black;
+    padding: 10px 5px;
+    border-radius: 15px;
+    border: 1px solid transparent;
+    font-family: fantasy;
+}
+button:hover{
+    color: black;
+    background-color: white;
+    transition: all 0.3s ease-in-out;
+}
