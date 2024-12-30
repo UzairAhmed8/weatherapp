@@ -1,4 +1,3 @@
-// Replace with your actual API key
 let API_KEY = "6aa511085aee716fe6e14f4774c9bd37";
 let API_URL = "https://api.openweathermap.org/data/2.5/weather";
 
